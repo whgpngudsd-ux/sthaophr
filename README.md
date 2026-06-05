@@ -1,13 +1,22 @@
-# مؤسسة سطحة شمال جدة هيدروليك
+# Sthaophr GitHub Repository | SEO & Schema
 
-مستودع مخصص لخرائط وإحداثيات KML ومسارات العمل الميداني لخدمات سحب ونقل السيارات المعطلة والمصدومة في مناطق وأحياء شمال جدة.
+Official repository for KML maps and JSON-LD Structured Data (Schema) for towing services in Jeddah.
 
-### الروابط والمصادر الرسمية:
-* **الموقع الرسمي:** [سطحة أوفر](https://sthaophr.com)
-* **دليل الخدمات الشامل:** [سطحة شمال جدة هيدروليك - Google Sites](https://sites.google.com/view/sthhaophar/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9)
+### 📊 Schema Files Index:
+* <a href="home-schema.json">Home Website Schema</a>
+* <a href="abhor-shalia-schema.json">Obhur Al-Shamaliyah Schema</a>
+* <a href="abhor-janobia-schema.json">Obhur Al-Janoubiyah Schema</a>
+* <a href="dahaban-durrat-schema.json">Dahaban & Durrat Al-Arus Schema</a>
+* <a href="taiba-rehab-schema.json">Taiba & Al-Rehaily Schema</a>
+* <a href="hamdania-schema.json">Al-Hamdaniya Schema</a>
+* <a href="who-we-are-schema.json">Who We Are Page Schema</a>
+* <a href="contact-schema.json">Contact Us Page Schema</a>
 
-## الخدمات المغطاة:
-* سحب سيارات هيدروليك نزول كامل في أبحر الشمالية والجنوبية.
-* نقليات وإنقاذ سريع على طريق ذهبان السريع.
-* شحن ونقل السيارات الفارهة والرياضية من وإلى درة العروس.
+### 🗺️ KML Maps & Tracks:
+* <a href="سطحة_شمال_جدة_هيدروليك.kml">Jeddah Towing Hydraulic Track KML</a>
 
+### 🌐 Verified Digital Network:
+* **Official Website:** <a href="https://sthaophr.com">Sthaophr Home</a>
+* **Google Sites Directory:** <a href="https://bit.ly/sth-google-sites">Google Sites Network</a>
+* **Professional Verification:** <a href="https://bit.ly/sth-linkedin">LinkedIn Verified Post</a>
+*
