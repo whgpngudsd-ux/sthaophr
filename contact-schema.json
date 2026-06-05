@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "EmergencyService",
+  "name": "اتصل الآن - رقم سطحة شمال جدة",
+  "description": "وسائل الاتصال والتواصل السريع لطلب سطحة هيدروليك أو عادي في أحياء شمال جدة على مدار الساعة.",
+  "url": "https://www.sthaophr.com/contact.html",
+  "telephone": "+966566910875",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+966566910875",
+    "contactType": "customer service",
+    "areaServed": "SA",
+    "availableLanguage": ["Arabic", "English"]
+  }
+}
