@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "EmergencyService",
+  "name": "سطحة الحمدانية هيدروليك وعادي",
+  "description": "طلب سطحة سريع في حي الحمدانية لسحب ونقل كافة أنواع السيارات المعطلة والمصدومة بجدة.",
+  "url": "https://www.sthaophr.com/sathat-alhamdaniya.html",
+  "telephone": "+966566910875",
+  "areaServed": {
+    "@type": "AdministrativeArea",
+    "name": "الحمدانية، جدة"
+  }
+}
