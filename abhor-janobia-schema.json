@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "EmergencyService",
+  "name": "سطحة ابحر الجنوبية",
+  "description": "خدمات نقل وسحب السيارات المعطلة والمصدومة بأحدث السطحات الهيدروليك والعادية في حي ابحر الجنوبية بشمال جدة.",
+  "url": "https://www.sthaophr.com/satha-obhur-aljanoubiyah.html",
+  "telephone": "+966566910875",
+  "areaServed": {
+    "@type": "AdministrativeArea",
+    "name": "ابحر الجنوبية، جدة"
+  }
+}
