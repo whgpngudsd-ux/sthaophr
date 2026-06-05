@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "EmergencyService",
+  "name": "من نحن - مؤسسة سطحة شمال جدة الرسمية",
+  "description": "تعريف بمؤسستنا وخدماتنا الميدانية المعتمدة في نقل وشحن وسحب السيارات بأحدث السطحات الهيدروليك والعادية بشمال جدة.",
+  "url": "https://www.sthaophr.com/who-we-are.html",
+  "telephone": "+966566910875",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "الصواري",
+    "addressLocality": "جدة",
+    "addressRegion": "منطقة مكة المكرمة",
+    "postalCode": "23828",
+    "addressCountry": "SA"
+  }
+}
