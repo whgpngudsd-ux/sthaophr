@@ -19,4 +19,6 @@ Official repository for KML maps and JSON-LD Structured Data (Schema) for towing
 * **Official Website:** <a href="https://sthaophr.com">Sthaophr Home</a>
 * **Google Sites Directory:** <a href="https://bit.ly/sth-google-sites">Google Sites Network</a>
 * **Professional Verification:** <a href="https://bit.ly/sth-linkedin">LinkedIn Verified Post</a>
+* **Google Maps Location 1:** <a href="https://maps.app.goo.gl/PZeJpMdVmG7gtxus8">سطحة أبحر على خرائط قوقل</a>
+* **Google Maps Location 2:** <a href="https://maps.app.goo.gl/YQgoZNrmjmy932Rq9">سطحة شمال جدة على خرائط قوقل</a>
 *
