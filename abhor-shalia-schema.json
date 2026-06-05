@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "EmergencyService",
+  "name": "سطحة هيدروليك ابحر الشمالية",
+  "description": "خدمات سحب ونقل السيارات الهيدروليك والنزول الكامل للسيارات الرياضية والفارهة في حي ابحر الشمالية بجدة.",
+  "url": "https://www.sthaophr.com/sathat-obhur-alshamaliyah-1.html",
+  "telephone": "+966566910875",
+  "areaServed": {
+    "@type": "AdministrativeArea",
+    "name": "ابحر الشمالية، جدة"
+  },
+  "availableService": {
+    "@type": "Service",
+    "name": "سطحة هيدروليك نزول كامل للسيارات الرياضية والفارهة"
+  }
+}
