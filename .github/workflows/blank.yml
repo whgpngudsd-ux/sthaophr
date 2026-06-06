@@ -10,12 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4  # حدثناه للإصدار v4 لأنه يدعم Node 20/24 تلقائياً
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
-      - name: Mirroring to GitLab
-        uses: wangyucode/git-mirror-action@v1.0.1  # استخدمنا أداة أحدث
+      - name: Mirror to Gitlab
+        uses: pixta-dev/repository-mirroring-action@v1
         with:
           target_repo_url: git@gitlab.com:whgpngudsd-ux/sthaophr.git
           ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
+          ssh_username: git
