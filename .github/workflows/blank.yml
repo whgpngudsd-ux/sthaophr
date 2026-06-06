@@ -1,0 +1,17 @@
+name: Auto-Sync Schema
+on:
+  push:
+    branches: [ main ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Auto-Commit Changes
+        run: |
+          git config --global user.name "sthaophr"
+          git config --global user.email "sthaophr@example.com"
+          git add .
+          git commit -m "Automated SEO Schema Update for Jeddah" || echo "No changes to commit"
+          git push
