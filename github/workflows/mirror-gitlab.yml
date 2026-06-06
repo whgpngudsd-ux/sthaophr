@@ -13,6 +13,13 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
+      - name: Pull and Mirror
+        run: |
+          git config --global user.name "sthaophr"
+          git config --global user.email "abbas@sthaophr.com"
+          git pull origin main --rebase
+          
       - name: Mirror to Gitlab
         uses: pixta-dev/repository-mirroring-action@v1
         with:
