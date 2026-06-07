@@ -1,4 +1,4 @@
-ثname: Deploy to GitLab
+name: Deploy to GitLab
 
 on:
   push:
