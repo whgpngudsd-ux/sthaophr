@@ -1,22 +1,16 @@
-name: Gitlab Mirroring
+name: Push to GitLab
 on:
   push:
-    branches:
-      - main
-  workflow_dispatch:
+    branches: [ main ]
 
 jobs:
-  to_gitlab:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
-      - name: Mirror to Gitlab
-        uses: pixta-dev/repository-mirroring-action@v1
-        with:
-          target_repo_url: git@gitlab.com:whgpngudsd-ux/sthaophr.git
-          ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
-          ssh_username: git
+      - name: Push to GitLab
+        run: |
+          git remote add gitlab git@gitlab.com:whgpngudsd-group/sthaophr.git
+          git push --mirror gitlab
