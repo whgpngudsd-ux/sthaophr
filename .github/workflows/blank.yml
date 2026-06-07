@@ -18,3 +18,4 @@ jobs:
         with:
           target_repo_url: git@gitlab.com:whgpngudsd-group/sthaophr.git
           ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
+          force_push: true
